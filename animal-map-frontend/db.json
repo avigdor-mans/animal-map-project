@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "address": "גוש חלב, ישראל",
+      "date": "2020-10-02T14:58",
+      "animal": "Dog",
+      "numOfAnimals": "11",
+      "typeOfEvent": "",
+      "nameOfPerson": "0542410117",
+      "phone": "",
+      "lat": 33.021266,
+      "lng": 35.447949,
+      "feederName": "",
+      "feederPhone": "",
+      "sterlizedCats": 0,
+      "unsterlizedCats": 0,
+      "id": 1
+    }
+  ]
+}
